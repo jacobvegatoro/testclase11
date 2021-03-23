@@ -9,3 +9,12 @@ h1{
     color: cadetblue;
     font-size: 36px;
 }
+
+.centrado{
+    text-align: center;
+    padding: 20px;
+}
+
+.logo{
+    width: 400px;
+}
